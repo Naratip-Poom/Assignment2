@@ -1,2 +1,4 @@
-"this is my first time in ass2"
-I'm trying to edit
+"My team"
+Mr.Naratip Thianchindakul 6310301012
+Mr.Kamphon Saimai 6310301011
+Mr.Rungsiman Laokaseatwit 6310301029 
